@@ -1,0 +1,14 @@
+D:\Coding\C#\Level_Two\Level_Two\bin\Debug\net8.0\Level_Two.exe
+D:\Coding\C#\Level_Two\Level_Two\bin\Debug\net8.0\Level_Two.deps.json
+D:\Coding\C#\Level_Two\Level_Two\bin\Debug\net8.0\Level_Two.runtimeconfig.json
+D:\Coding\C#\Level_Two\Level_Two\bin\Debug\net8.0\Level_Two.dll
+D:\Coding\C#\Level_Two\Level_Two\bin\Debug\net8.0\Level_Two.pdb
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.AssemblyInfoInputs.cache
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.AssemblyInfo.cs
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.dll
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\refint\Level_Two.dll
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.pdb
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\Level_Two.genruntimeconfig.cache
+D:\Coding\C#\Level_Two\Level_Two\obj\Debug\net8.0\ref\Level_Two.dll

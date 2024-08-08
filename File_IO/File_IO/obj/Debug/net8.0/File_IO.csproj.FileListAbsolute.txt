@@ -1,0 +1,14 @@
+D:\Coding\C#\Level_Two\File_IO\File_IO\bin\Debug\net8.0\File_IO.exe
+D:\Coding\C#\Level_Two\File_IO\File_IO\bin\Debug\net8.0\File_IO.deps.json
+D:\Coding\C#\Level_Two\File_IO\File_IO\bin\Debug\net8.0\File_IO.runtimeconfig.json
+D:\Coding\C#\Level_Two\File_IO\File_IO\bin\Debug\net8.0\File_IO.dll
+D:\Coding\C#\Level_Two\File_IO\File_IO\bin\Debug\net8.0\File_IO.pdb
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.AssemblyInfoInputs.cache
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.AssemblyInfo.cs
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.dll
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\refint\File_IO.dll
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.pdb
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\File_IO.genruntimeconfig.cache
+D:\Coding\C#\Level_Two\File_IO\File_IO\obj\Debug\net8.0\ref\File_IO.dll
